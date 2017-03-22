@@ -1,0 +1,2 @@
+var happy;
+var sad;
